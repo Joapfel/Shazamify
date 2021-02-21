@@ -29,3 +29,29 @@ Thank you for the amazing groundwork!
 5. Paste the link into the textfield for the Playlist URL
 
 <img src="https://github.com/Joapfel/Shazamify/blob/main/media/IMG_0504.jpg" width="250">
+
+## Login to Spotify and grant access for the shortcut
+1. Run the shortcut
+2. You will be redirected to the Spotify login page, please login
+
+<img src="https://github.com/Joapfel/Shazamify/blob/main/media/IMG_0505.PNG" width="250">
+
+3. Accept the requested access
+
+<img src="https://github.com/Joapfel/Shazamify/blob/main/media/IMG_0506.PNG" width="250">
+<img src="https://github.com/Joapfel/Shazamify/blob/main/media/IMG_0507.jpg" width="250">
+
+4. You will be redirected to a simple webpage, copy the authorization code to the clipboard
+
+<img src="https://github.com/Joapfel/Shazamify/blob/main/media/IMG_0508.jpg" width="250">
+<img src="https://github.com/Joapfel/Shazamify/blob/main/media/IMG_0509.jpg" width="250">
+
+5. Return to the still running shortcut. Now you should receive a message that the refresh token was copied to your clipboard
+
+<img src="https://github.com/Joapfel/Shazamify/blob/main/media/IMG_0510.PNG" width="250">
+
+6. Paste the refresh token into the textfield for the refresh token
+
+<img src="https://github.com/Joapfel/Shazamify/blob/main/media/IMG_0511.jpg" width="250">
+
+7. Now you should be able to use the shortcut ;)
