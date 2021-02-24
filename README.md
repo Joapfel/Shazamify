@@ -6,9 +6,11 @@ The shortcut is based on the groundwork of https://github.com/CarlHauschke/Spoti
 
 Thank you for the amazing groundwork!
 
-# Demo 
+# Usage Demo 
+<img src="https://github.com/Joapfel/Shazamify/blob/main/media/demo.gif" width="250">
 
 # Setup Demo
+<img src="https://github.com/Joapfel/Shazamify/blob/main/media/setup-demo.gif" width="250">
 
 # Setup step by step
 
