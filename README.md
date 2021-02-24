@@ -1,5 +1,6 @@
 # Shazamify
 The Shazamify shortcut lets you recognize a song and add it to a predefined Spotify playlist of your choice - all with one click!
+Get the shortcut: https://www.icloud.com/shortcuts/4d689bf7d2b640cbb3ca6bd62cc00ada
 
 # References
 The shortcut is based on the groundwork of https://github.com/CarlHauschke/Spotify-Shortcuts-iOS12 which was also mentioned in https://www.iphonehacks.com/2019/02/best-spotify-siri-shortcuts-iphone.html.
